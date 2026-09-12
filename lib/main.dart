@@ -626,7 +626,7 @@ class ProjectPage extends StatelessWidget {
                   'Sample system architecture project focused '
                   'on web development and responsive design.',
 
-              image: 'assets/system.jpg',
+              image: 'assets/system.png',
 
               // ILAGAY DITO ANG LINK NG SYSARCH PROJECT MO
               link: 'https://graveplotmanagement.freehosting.dev/?i=1',
@@ -645,7 +645,7 @@ class ProjectPage extends StatelessWidget {
                   'A personal portfolio website showcasing '
                   'skills, projects, and contact information.',
 
-              image: 'assets/portfolio.jpg',
+              image: 'assets/portfolio.png',
 
               // ILAGAY DITO ANG LINK NG PORTFOLIO MO
               link: 'https://skadoshhh.github.io/JIRO-PITOGO-PORTFOLIO/',
